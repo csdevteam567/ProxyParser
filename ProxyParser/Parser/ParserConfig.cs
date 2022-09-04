@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProxyParser
+namespace ProxyParser.Parser
 {
     public class ParserConfig
     {
